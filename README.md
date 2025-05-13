@@ -10,7 +10,9 @@ A full-stack MERN (MongoDB, Express, React, Node.js) task tracker with authentic
 
 ## 📸 Screenshots
 
-See `screenshots.pdf` for full app preview.
+
+See [`Task-Tracker-Screenshots.pdf`](./Task-Tracker-Screenshots.pdf) for full app preview.
+
 
 ---
 
